@@ -3,7 +3,6 @@ import pygame
 pygame.init()
 
 DISPLAYSURFACE = pygame.display.set_mode([800, 500])
-
 FPSCLOCK = pygame.time.Clock()
 
 while True:
